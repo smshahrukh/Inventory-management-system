@@ -1,0 +1,23 @@
+{
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "Inventory Managment system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inventory",
+    "management",
+    "system"
+  ],
+  "dependencies": {
+    "express": "^4.16.4",
+    "joi": "^14.3.1",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.10",
+    "nodemon": "^1.18.9"
+  },
+  "author": "Shahrukh Azeem",
+  "license": "ISC"
+}
